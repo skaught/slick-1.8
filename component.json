@@ -2,6 +2,7 @@
     "name": "slick",
     "repo": "kenwheeler/slick",
     "description": "the last carousel you'll ever need",
+    "type": "drupal-library"
     "version": "1.8.1",
     "keywords": ["ui", "jquery", "carousel", "responsive", "slider"],
     "dependencies": {
